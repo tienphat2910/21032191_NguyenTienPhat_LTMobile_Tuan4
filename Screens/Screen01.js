@@ -16,7 +16,7 @@ const Screen01 = ({ navigation }) => {
             >
                 {/* Hình ảnh từ thư mục assets */}
                 <Image 
-                    source={require('../assets/Data/Container 17.png')}
+                    source={require('../assets/Data/Container_17.png')}
                     height={100} // Kích thước chiều cao
                 />
             </View>

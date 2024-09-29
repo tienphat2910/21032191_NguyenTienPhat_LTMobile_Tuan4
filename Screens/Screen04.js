@@ -11,9 +11,9 @@ const Screen04 = ({ navigation }) => {
 
     // Danh sách sản phẩm
     const [dataProduct] = useState([
-        { key: 1, label: "Product1", price: 2.99, imageProduct: require('../assets/Data/Image7(1).png'), rating: 4.5 },
-        { key: 2, label: "Product2", price: 3.99, imageProduct: require('../assets/Data/Image7(2).png'), rating: 4.7 },
-        { key: 3, label: "Product3", price: 1.99, imageProduct: require('../assets/Data/Image7(4).png'), rating: 4.3 },
+        { key: 1, label: "Product1", price: 2.99, imageProduct: require('../assets/Data/Image7_(1).png'), rating: 4.5 },
+        { key: 2, label: "Product2", price: 3.99, imageProduct: require('../assets/Data/Image7_(2).png'), rating: 4.7 },
+        { key: 3, label: "Product3", price: 1.99, imageProduct: require('../assets/Data/Image7_(4).png'), rating: 4.3 },
         { key: 4, label: "Product4", price: 2.49, imageProduct: require('../assets/Data/Image7.png'), rating: 4.1 },
     ]);
 

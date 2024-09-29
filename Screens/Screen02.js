@@ -32,7 +32,7 @@ const Screen02 = ({ navigation }) => {
             {/* Hình ảnh và văn bản chào mừng */}
             <View style={{ alignItems: 'center', marginBottom: 40 }}>
                 <Image
-                    source={require('../assets/Data/Image 19.png')} // Hình ảnh từ thư mục assets
+                    source={require('../assets/Data/Image_19.png')} // Hình ảnh từ thư mục assets
                     style={{ width: 100, height: 100 }} // Kích thước hình ảnh
                 />
                 <Text style={{ fontSize: 30, fontWeight: '600', marginVertical: 10 }}>

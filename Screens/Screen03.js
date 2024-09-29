@@ -28,7 +28,7 @@ const Screen03 = ({ navigation }) => {
                     color="#000"
                     onPress={() => { navigation.navigate("Screen01") }}
                 /> */}
-                <Image source={require("../assets/Data/Image 20.png")} style={{ height: 200, width: '100%' }} />
+                <Image source={require("../assets/Data/Image_20.png")} style={{ height: 200, width: '100%' }} />
             </View>
 
             <View style={{ padding: 20 }}> {/* Padding cho toàn bộ View */}
